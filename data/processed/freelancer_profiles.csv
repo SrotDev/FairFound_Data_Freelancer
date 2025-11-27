@@ -1,0 +1,51 @@
+user_id,profile_completeness,profile_views,proposal_success_rate,job_invitations,hourly_rate,skills,portfolio_items,repeat_clients_rate,updated_at
+9a559366-7dad-45ab-a95d-c7227059da18,72,1207,6,8,84,Firebase;MongoDB;Problem Solving,11,43,2025-11-27T09:11:31Z
+8972e26f-61bf-4dec-aa72-57acfbeef644,77,798,39,11,91,AWS;Django;GraphQL;Redis;TypeScript,6,44,2025-11-27T09:11:31Z
+6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,73,2199,20,5,31,Django;ElasticSearch;Firebase;Kubernetes;MySQL;Python;Spring Boot,4,40,2025-11-27T09:11:31Z
+b78a22ee-1b14-4877-8980-728455110021,59,1775,28,1,30,Azure;Django;GraphQL;Webpack,15,44,2025-11-27T09:11:31Z
+51ed64c2-0365-4433-9ed3-94c868191145,61,798,25,5,55,CI/CD;Jira;MySQL;Pandas,18,41,2025-11-27T09:11:31Z
+8a845fc8-620d-4a8d-b63a-adb0e1ef5867,83,1722,23,13,31,CI/CD;GraphQL;Leadership;Matplotlib;Node.js;Seaborn,8,43,2025-11-27T09:11:31Z
+3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,87,209,34,15,118,Matplotlib;Next.js;Testing,11,38,2025-11-27T09:11:31Z
+043410de-b5a3-4e5c-8e37-bd3e07f050cc,99,931,41,9,20,ElasticSearch;Microservices;Python;TypeScript,3,17,2025-11-27T09:11:31Z
+ac64136b-136c-4684-b0dc-70018beb06d3,56,273,51,4,200,Azure;Django;GraphQL;PyTorch;RabbitMQ;React;Redis,5,0,2025-11-27T09:11:31Z
+62e13133-d20c-4336-b810-71ac71b0a8e6,66,1826,35,12,36,FastAPI;MongoDB;REST APIs;React,8,33,2025-11-27T09:11:31Z
+fbf47e61-3136-469d-b4a2-fcfa60373bd7,73,384,13,0,157,Angular;CI/CD;React;Scrum;Seaborn,9,26,2025-11-27T09:11:31Z
+973a3534-d145-4b4c-8204-fec4ecf6c477,40,1037,43,7,185,FastAPI;Figma;GraphQL;MongoDB;Node.js;Spring Boot,16,32,2025-11-27T09:11:31Z
+f504e05d-c243-479a-92d5-e28053e4a261,69,1117,17,7,58,CI/CD;FastAPI;Figma;GCP;Keras;Leadership;Seaborn,11,51,2025-11-27T09:11:31Z
+e5292733-073e-46ee-ac84-ab5935799620,61,429,31,9,21,Azure;Jira;MongoDB;PyTorch;RabbitMQ;Scrum,15,33,2025-11-27T09:11:31Z
+605b096e-fbc1-47da-8289-bbcd5b8725dd,82,368,55,6,66,Figma;Keras;Microservices;Next.js;Pandas;SASS;Vue.js,7,40,2025-11-27T09:11:31Z
+937b390b-c502-4302-a2a6-01378b0b2f9f,100,1738,0,7,55,Angular;Django;Figma;Firebase;Pandas;Redis;Scrum;TypeScript,11,38,2025-11-27T09:11:31Z
+b8371598-b1b4-4934-9ff1-e361f6c551eb,86,1872,35,0,18,Docker;Keras;Kubernetes;Matplotlib;Node.js;PostgreSQL,10,57,2025-11-27T09:11:31Z
+9090a732-793b-437d-98b5-af1adcc05175,100,438,23,0,41,GraphQL;MongoDB;Node.js;Problem Solving;React;Seaborn;TypeScript;UI/UX Design,2,19,2025-11-27T09:11:31Z
+fd91cd52-472d-4563-bb87-41537abaaf1b,57,1276,37,14,52,Communication;FastAPI;Keras;Leadership;MongoDB;Next.js,13,12,2025-11-27T09:11:31Z
+d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,72,1231,16,8,24,AWS;MongoDB;REST APIs;TailwindCSS,4,42,2025-11-27T09:11:31Z
+1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,97,1765,31,0,90,Jira;REST APIs;Vue.js,13,27,2025-11-27T09:11:31Z
+4a192978-3e6e-448f-bc6d-2887ef7d610b,66,677,19,4,200,AWS;ElasticSearch;Firebase;Pandas;React;Vue.js;Webpack,11,0,2025-11-27T09:11:31Z
+f700b30d-d832-4ac8-b003-5ec8571feac6,85,319,23,4,137,Docker;Keras;Kubernetes;Matplotlib;TensorFlow,8,19,2025-11-27T09:11:31Z
+a99e4cf7-880b-4aef-b159-8083f58ab169,83,1272,40,4,104,Angular;FastAPI;GraphQL;PostgreSQL;Problem Solving;REST APIs;React;Spring Boot,12,13,2025-11-27T09:11:31Z
+2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,73,1171,0,7,176,Agile;Figma;Jira;Kubernetes;Microservices;Seaborn;TypeScript,18,12,2025-11-27T09:11:31Z
+fcf587c9-6be0-4d71-8343-03b28d39477b,82,1615,29,17,42,Docker;Keras;MongoDB;React,5,26,2025-11-27T09:11:31Z
+bf6f65b9-eaaf-4345-8d38-ad308c6ee334,73,649,25,6,96,Azure;Microservices;MySQL;Vue.js,10,55,2025-11-27T09:11:31Z
+96089055-4604-415c-b5c5-a7d5470a13a9,84,952,24,5,45,Jira;Problem Solving;REST APIs;RabbitMQ;Seaborn,6,3,2025-11-27T09:11:31Z
+078577f1-52ac-43df-806c-97214f479f47,74,2158,0,2,92,AWS;Agile;PyTorch,10,42,2025-11-27T09:11:31Z
+50fac19b-b342-4105-856a-9b1c438d2973,52,978,2,2,78,Angular;Docker;Matplotlib;MySQL;Next.js;PostgreSQL;Spring Boot,1,47,2025-11-27T09:11:31Z
+4a372689-04fe-43c4-89d8-04bb4ed87e91,49,255,28,3,80,Agile;Python;React,7,46,2025-11-27T09:11:31Z
+057cacdf-d35a-4a76-a584-bde993e0bca2,40,363,24,10,41,Agile;Angular;Microservices;Pandas;Python,2,52,2025-11-27T09:11:31Z
+40d89b92-3fd7-4833-95b3-4dc88c73ab04,94,1563,35,5,196,ElasticSearch;Firebase;GCP;GraphQL;Next.js;Node.js,2,22,2025-11-27T09:11:31Z
+53aacb76-cb59-4d93-9706-5c440bbaabe6,94,1181,10,13,72,Agile;GCP;Kubernetes;TensorFlow;Testing;Webpack,10,10,2025-11-27T09:11:31Z
+ca46bf71-f0c2-4403-936c-c04465607293,95,959,22,13,43,AWS;Agile;Firebase;GraphQL;Kubernetes;Matplotlib;TailwindCSS,11,44,2025-11-27T09:11:31Z
+24e0f571-4cb6-49ee-9121-6dbcc34e519f,75,2009,31,22,75,Flask;GraphQL;REST APIs;Spring Boot,9,22,2025-11-27T09:11:31Z
+6a020598-1720-4492-9368-07b9931ebbba,100,501,26,8,37,Communication;Django;Figma;React,6,29,2025-11-27T09:11:31Z
+1b08a4ce-ad73-4490-bb54-2beecd0401b5,74,1715,12,5,78,Angular;REST APIs;SASS,7,0,2025-11-27T09:11:31Z
+ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,75,1298,20,7,67,AWS;Azure;Docker;Figma;GraphQL;Leadership;MySQL;Redis,7,4,2025-11-27T09:11:31Z
+f32a9365-6888-496d-b748-20f0ab7e18a5,73,1863,22,8,41,Communication;Next.js;Problem Solving;Scrum;TensorFlow;Testing,8,48,2025-11-27T09:11:31Z
+9a744f95-35d9-486f-9772-794fc0173a70,76,195,13,4,108,Microservices;RabbitMQ;Redis;Spring Boot;Webpack,7,27,2025-11-27T09:11:31Z
+a107c3a3-639f-4ad6-981e-91c46db53e60,81,1515,26,13,105,AWS;Angular;Azure;Flask;GraphQL;GraphQL;MySQL;Problem Solving,9,58,2025-11-27T09:11:31Z
+20d263ed-d5eb-4582-9a34-d2125ef6f008,85,1741,48,10,131,AWS;Communication;Node.js;PostgreSQL;RabbitMQ;SASS,6,24,2025-11-27T09:11:31Z
+40c8980d-e708-4e23-85c4-ad8ce034656e,60,367,14,8,86,Django;Figma;Firebase;GCP;MySQL;Pandas;RabbitMQ;UI/UX Design,8,39,2025-11-27T09:11:31Z
+87b11b33-bbaa-4eb5-a634-886b8884048a,65,1634,24,0,31,Agile;Flask;Matplotlib;Next.js;Problem Solving;TensorFlow;TypeScript;Webpack,2,16,2025-11-27T09:11:31Z
+1995b7de-3e69-4381-897e-a5d3bf9d5e0d,84,1112,8,14,47,AWS;FastAPI;Leadership,14,9,2025-11-27T09:11:31Z
+25f9d20a-dc18-4757-a8bd-80a5dcf913b9,79,1633,13,1,82,PostgreSQL;REST APIs;Redis,15,38,2025-11-27T09:11:31Z
+7a3a32a4-bfcd-44fc-81da-9cc52edf20af,54,1378,8,6,155,Jira;REST APIs;TailwindCSS;Testing,8,0,2025-11-27T09:11:31Z
+73096e18-23ec-46b7-b482-cc63caac233e,64,1132,24,10,30,Agile;Matplotlib;MySQL;Scrum;Seaborn,6,23,2025-11-27T09:11:31Z
+0a630de0-29cd-4bf4-8d4a-04d0f6370406,50,1801,14,4,31,Azure;Keras;Python;Webpack,6,20,2025-11-27T09:11:31Z

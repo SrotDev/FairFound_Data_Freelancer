@@ -1,0 +1,251 @@
+id,user_id,title,description,estimated_effort,order,completed,created_at
+0b5bdedd-ab1a-4c31-acc3-3d3573d08ed8,9a559366-7dad-45ab-a95d-c7227059da18,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+ab287e5a-4735-46b5-b36d-b55a78e585d1,9a559366-7dad-45ab-a95d-c7227059da18,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+efb07699-3bca-432e-bc0d-1a3a481c8a34,9a559366-7dad-45ab-a95d-c7227059da18,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+063b7379-edb1-4dcd-850d-8046e1f6f4e7,9a559366-7dad-45ab-a95d-c7227059da18,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+333636f4-f0f2-4e74-ac01-e416cb5c2dff,9a559366-7dad-45ab-a95d-c7227059da18,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+f7d3c803-9094-4f51-ad3e-835e294d4bfc,8972e26f-61bf-4dec-aa72-57acfbeef644,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+90a58e15-780f-4721-9fbd-bdfaaaa9f74a,8972e26f-61bf-4dec-aa72-57acfbeef644,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+273300eb-944c-4341-9d80-2a56efab1423,8972e26f-61bf-4dec-aa72-57acfbeef644,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+1b0a5104-25fa-4829-aba4-d231318abf49,8972e26f-61bf-4dec-aa72-57acfbeef644,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+43670020-6812-4e56-b9c9-21c3d751757e,8972e26f-61bf-4dec-aa72-57acfbeef644,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+6bf3d4dd-95d8-42a6-ad18-e66fe3048746,6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+b20b4948-1491-46db-a335-ee42625a52f6,6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+a012db9c-9fb4-4120-9b57-4bdd5884f6ed,6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+7e553a41-d0b2-4166-aef4-b9564adead0a,6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+275a1492-9e2a-4fd8-a20b-1524e93cbb47,6e3b6bc0-2a3f-4051-bf11-f1da4303d8f8,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+dd3b0659-5c86-401a-a722-2efc8cbc85f8,b78a22ee-1b14-4877-8980-728455110021,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+0d43ee26-f47f-4ecc-91d0-c722644faa48,b78a22ee-1b14-4877-8980-728455110021,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+d0abbc75-18c7-4cff-bee3-b33f2d7564e6,b78a22ee-1b14-4877-8980-728455110021,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+52c1e839-b9e4-4efd-a0bb-751c8bca6e4a,b78a22ee-1b14-4877-8980-728455110021,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+d2971d2d-b9c3-44c6-ac87-0751687ac38e,b78a22ee-1b14-4877-8980-728455110021,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+01b4c84a-ef3b-4b29-9f0c-e4e2c02f95a9,51ed64c2-0365-4433-9ed3-94c868191145,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+dc71f690-150c-4feb-9d70-fced951da727,51ed64c2-0365-4433-9ed3-94c868191145,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+f0509222-6fe1-417b-930d-79050463df90,51ed64c2-0365-4433-9ed3-94c868191145,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+1a8983ca-f226-4912-bee4-433af10e5332,51ed64c2-0365-4433-9ed3-94c868191145,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+e6babd4e-4feb-467b-997f-22354cad6569,51ed64c2-0365-4433-9ed3-94c868191145,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+7abde697-de04-4282-b468-979c89e3a01e,8a845fc8-620d-4a8d-b63a-adb0e1ef5867,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+41ba8c44-6cd9-4c4e-b9f9-1982640556e1,8a845fc8-620d-4a8d-b63a-adb0e1ef5867,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+fe7af0d6-d83f-49a6-bd95-692755f92a2a,8a845fc8-620d-4a8d-b63a-adb0e1ef5867,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+750ea602-85d5-4e99-b1b0-ef6dfaad9721,8a845fc8-620d-4a8d-b63a-adb0e1ef5867,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+9b6dc337-d2fd-4ecc-b562-ce315a4df76e,8a845fc8-620d-4a8d-b63a-adb0e1ef5867,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+4e9c5081-b4ca-4c2b-b7c7-eb5e158c3b89,3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+7ef3e140-4c90-42fe-97cf-4a9abf519e88,3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+898039fb-57a0-45e2-8556-b76560ecd3ad,3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+74294075-232f-444b-9af7-dc6e5b5e469c,3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+3cc343b6-25d0-45bb-9e69-9fe9c7f78bc6,3055e67e-d4d6-4a3a-a3a8-e79a3be0997b,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+90e92723-2790-40d3-87c2-f866d0676114,043410de-b5a3-4e5c-8e37-bd3e07f050cc,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+7ee0c5ff-de33-42ca-8bb7-7649b54d2437,043410de-b5a3-4e5c-8e37-bd3e07f050cc,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+574680cb-c1d7-4b30-90d2-d2817ac2d4cf,043410de-b5a3-4e5c-8e37-bd3e07f050cc,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+b6d50889-df4f-47af-897f-08167b0306d5,043410de-b5a3-4e5c-8e37-bd3e07f050cc,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+c2087dfa-63d2-4a79-9796-49ff7117d1f1,043410de-b5a3-4e5c-8e37-bd3e07f050cc,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+838f6158-9573-4997-8acf-fd3793370347,ac64136b-136c-4684-b0dc-70018beb06d3,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+66244df1-8e14-4c70-95a8-87bc2bc9964d,ac64136b-136c-4684-b0dc-70018beb06d3,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+e7e8f79e-c355-46e8-b4a0-ff1c52456750,ac64136b-136c-4684-b0dc-70018beb06d3,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+ffa79049-5c5a-4bd1-ab5e-533e88f2a638,ac64136b-136c-4684-b0dc-70018beb06d3,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+a87f89dd-39ec-4b37-8436-442f99544802,ac64136b-136c-4684-b0dc-70018beb06d3,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+12f6b950-ecf6-4be0-96da-cd02f040af71,62e13133-d20c-4336-b810-71ac71b0a8e6,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+307f32ce-307c-4c0e-983c-1d92f35bd016,62e13133-d20c-4336-b810-71ac71b0a8e6,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+e745cd7d-07ae-40c5-af24-d4fc9fa4fa03,62e13133-d20c-4336-b810-71ac71b0a8e6,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+fd7f1897-d82f-44d0-a527-ffaf3eb235bd,62e13133-d20c-4336-b810-71ac71b0a8e6,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+7ecbeba9-e771-453d-a234-26e9a705b639,62e13133-d20c-4336-b810-71ac71b0a8e6,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+24f6ca80-8653-44a8-849c-800cfd9cb572,fbf47e61-3136-469d-b4a2-fcfa60373bd7,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+a25f503f-36f5-490f-a931-841d7c9cd526,fbf47e61-3136-469d-b4a2-fcfa60373bd7,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+ac3740ba-817e-40a3-8b73-f3585d86b76f,fbf47e61-3136-469d-b4a2-fcfa60373bd7,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+84372793-812d-4930-a0c4-50983450ee1b,fbf47e61-3136-469d-b4a2-fcfa60373bd7,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+c57ef197-2b56-472d-9a74-7300bd0bd249,fbf47e61-3136-469d-b4a2-fcfa60373bd7,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+2a7946ff-12e0-4720-ba4f-baa46cdb285d,973a3534-d145-4b4c-8204-fec4ecf6c477,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+a5b2701e-8cd5-426c-802e-c8946f46cf41,973a3534-d145-4b4c-8204-fec4ecf6c477,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+7c30e89c-3964-4dd5-846d-3324e4e446f0,973a3534-d145-4b4c-8204-fec4ecf6c477,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+229cfb94-57f8-48eb-aa92-9cd3bdca8094,973a3534-d145-4b4c-8204-fec4ecf6c477,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+d2350d85-0144-464f-9878-470787b1a058,973a3534-d145-4b4c-8204-fec4ecf6c477,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+846e581c-4bf9-4e4f-8d3e-9c882f46d71c,f504e05d-c243-479a-92d5-e28053e4a261,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+d9b4e3c2-c489-454d-b1f2-40eb6ff70bd8,f504e05d-c243-479a-92d5-e28053e4a261,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+e17ea36d-12e2-4448-87dd-150ccb1b8531,f504e05d-c243-479a-92d5-e28053e4a261,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+71b454ed-d1e2-4e04-b4fd-494344e745f8,f504e05d-c243-479a-92d5-e28053e4a261,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+dfd3fc86-649a-4bbb-9073-52c5db9b91dd,f504e05d-c243-479a-92d5-e28053e4a261,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+aca876c1-c75b-44ad-9b92-2846cc0becc8,e5292733-073e-46ee-ac84-ab5935799620,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+a4b1b2ce-6bb2-4b82-b03d-53e59c1ef515,e5292733-073e-46ee-ac84-ab5935799620,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+0cf7fc27-ff9e-4451-a05c-f8653132256c,e5292733-073e-46ee-ac84-ab5935799620,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+319ce7ec-98c7-4633-8557-5aaf8c7d89ff,e5292733-073e-46ee-ac84-ab5935799620,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+ffc15ab6-80b3-47ad-bde7-83c920790633,e5292733-073e-46ee-ac84-ab5935799620,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+e6676711-047c-4a49-a63e-db1080cf23b9,605b096e-fbc1-47da-8289-bbcd5b8725dd,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+882aed7f-1b92-48a2-963f-8d13faf0edf2,605b096e-fbc1-47da-8289-bbcd5b8725dd,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+c695a903-392f-43f4-91e4-6da15e78ce32,605b096e-fbc1-47da-8289-bbcd5b8725dd,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+8753110d-44a6-432b-9bab-dd45938c1fe9,605b096e-fbc1-47da-8289-bbcd5b8725dd,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+bbde1a1e-c14c-4955-a488-0a96eacacdf5,605b096e-fbc1-47da-8289-bbcd5b8725dd,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+df4da7c0-f379-440f-b13c-7e9b082e3c89,937b390b-c502-4302-a2a6-01378b0b2f9f,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+9f6173e0-3866-4122-a89e-2e6a145f9135,937b390b-c502-4302-a2a6-01378b0b2f9f,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+440e4c39-9cb2-4f5a-9234-70b8a9dc005c,937b390b-c502-4302-a2a6-01378b0b2f9f,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+0cdaeb71-f731-48f6-bcbb-392529e60757,937b390b-c502-4302-a2a6-01378b0b2f9f,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+17b6a847-22d7-4d36-b3d0-0c65bf0a9fa4,937b390b-c502-4302-a2a6-01378b0b2f9f,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+434b3d7d-cc67-48f8-bf56-1a479a3386d5,b8371598-b1b4-4934-9ff1-e361f6c551eb,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+7be9d5ea-262d-4f7e-844c-355240a0fc9a,b8371598-b1b4-4934-9ff1-e361f6c551eb,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+eddffcf9-72b6-4824-a6fa-ce7181d1a994,b8371598-b1b4-4934-9ff1-e361f6c551eb,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+bdf6161e-6e2b-4e3b-af68-5b33a07c43e5,b8371598-b1b4-4934-9ff1-e361f6c551eb,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+4fe1295b-579a-4474-93d1-17c43ffe6ea5,b8371598-b1b4-4934-9ff1-e361f6c551eb,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+8a4ebbf2-4dbb-43b3-a119-91e03d5b8de8,9090a732-793b-437d-98b5-af1adcc05175,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+2a73ceb6-2b84-4034-bccb-070dd6898d2c,9090a732-793b-437d-98b5-af1adcc05175,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+23ba9d31-4c1b-401c-8b50-6114446f80eb,9090a732-793b-437d-98b5-af1adcc05175,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+49b4d10a-9c8d-46cb-ba68-f048a2df6de3,9090a732-793b-437d-98b5-af1adcc05175,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+2294c933-b2f3-400f-bee1-9a7383c8f1e2,9090a732-793b-437d-98b5-af1adcc05175,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+ab263b09-0d64-4728-bd5f-a4b5c444fe65,fd91cd52-472d-4563-bb87-41537abaaf1b,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+a871e15e-588d-4d30-bba4-c9ecf20a151f,fd91cd52-472d-4563-bb87-41537abaaf1b,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+05d6fa62-11e6-43a5-9127-c66b42dd93e5,fd91cd52-472d-4563-bb87-41537abaaf1b,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+48ddc10d-5f64-4825-9ff1-5598af316796,fd91cd52-472d-4563-bb87-41537abaaf1b,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+47bf1b8e-e760-4e6c-840f-5b1d4e4465a7,fd91cd52-472d-4563-bb87-41537abaaf1b,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+b0808c69-2133-4a1c-831b-f450bc2d0f5f,d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+573da2e8-609c-41bd-ab84-1c8d04f10bc0,d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+a0edc8d2-0a80-4802-aac2-076b08b18d70,d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+52468a45-53e2-4b22-8ae7-661a57a6e9d4,d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+e466c097-661e-4416-a598-7d990761f110,d6319fc4-aa27-43d4-8d9e-01bbcaad0bed,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+656baed4-4ded-4aab-b6da-54566111a5ca,1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+62cd6afe-5561-40f7-8215-ead85acad0fe,1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+d08cc453-9b16-4b53-91f8-0ff47008ccda,1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+7a7a1dd8-25f3-4f59-973f-533794759976,1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+28844c13-d4a7-4a64-8856-c9ae0cef94ad,1d1f02f8-2b7a-4c93-b80a-74ff934ebcd1,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+d37b8f17-9761-490f-8a05-e03a93984ebe,4a192978-3e6e-448f-bc6d-2887ef7d610b,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+ae0ac34e-4634-461c-b9ed-05e34ae986b6,4a192978-3e6e-448f-bc6d-2887ef7d610b,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+140101cb-15e2-444a-bd55-67fb80630eff,4a192978-3e6e-448f-bc6d-2887ef7d610b,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+b87e5b39-758f-46cb-82e6-d4ec1d615be6,4a192978-3e6e-448f-bc6d-2887ef7d610b,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+517be984-d671-460e-978f-0372e548511c,4a192978-3e6e-448f-bc6d-2887ef7d610b,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+f0d91a86-8221-4d37-aa8f-a51850f2bfec,f700b30d-d832-4ac8-b003-5ec8571feac6,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+bd5d2643-5663-4a0c-bedf-6ad774bb32c9,f700b30d-d832-4ac8-b003-5ec8571feac6,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+b486cd67-8463-480a-94ae-9fbdd90aefed,f700b30d-d832-4ac8-b003-5ec8571feac6,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+dfad4e1a-feef-43ab-bda9-7dd2ed7bf6b3,f700b30d-d832-4ac8-b003-5ec8571feac6,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+501e7d3d-320e-4ef0-8ca4-894cec5c2de4,f700b30d-d832-4ac8-b003-5ec8571feac6,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+08f2e4be-6257-405d-b449-998b795bf468,a99e4cf7-880b-4aef-b159-8083f58ab169,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+d755dbf4-2793-4c39-b238-5f9e06a3728f,a99e4cf7-880b-4aef-b159-8083f58ab169,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+1a75463b-fb49-4770-9567-ce566dc21c4d,a99e4cf7-880b-4aef-b159-8083f58ab169,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+cddd5b7c-9ef8-47ad-b25f-87898d5af635,a99e4cf7-880b-4aef-b159-8083f58ab169,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+b77ae947-d6e7-4e70-847a-dd322e9f6efb,a99e4cf7-880b-4aef-b159-8083f58ab169,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+6f79e177-c009-4fd3-a58d-0a148979fbeb,2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+618598ad-f54d-4cf1-9d0e-676ca3f38491,2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+2551ce15-b649-424c-831e-25e87afaa7a8,2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+57e22164-4a62-469d-8a11-435e6873770c,2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+0ccb1f2f-2c0b-4bd9-87dc-be1f51997de8,2c4cdc3b-e223-40f9-99a7-16c1b5e4d2d2,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+a51013a6-be1d-49fc-8642-c79ce448fc14,fcf587c9-6be0-4d71-8343-03b28d39477b,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+64c52f67-2bae-4b87-b9b0-dd99d6853171,fcf587c9-6be0-4d71-8343-03b28d39477b,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+b949855d-d6a8-4820-9912-d942522d7bdd,fcf587c9-6be0-4d71-8343-03b28d39477b,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+45d61864-4e5c-4606-8966-5525725bb14f,fcf587c9-6be0-4d71-8343-03b28d39477b,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+03d493bb-dd89-48a2-8286-ca6d42ab7374,fcf587c9-6be0-4d71-8343-03b28d39477b,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+50f98bc5-8287-49a9-8832-f319eb9c353c,bf6f65b9-eaaf-4345-8d38-ad308c6ee334,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+406d4c1d-aacf-4b25-94bc-247b7ece233f,bf6f65b9-eaaf-4345-8d38-ad308c6ee334,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+ec6a61d3-81a9-4931-aee3-8046810c07b0,bf6f65b9-eaaf-4345-8d38-ad308c6ee334,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+4f226d0d-2b3f-4fcb-b49d-0ae5f1ed03e2,bf6f65b9-eaaf-4345-8d38-ad308c6ee334,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+a979aeae-3016-4866-95bd-48d75f8cfbf1,bf6f65b9-eaaf-4345-8d38-ad308c6ee334,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+65691f8e-8a36-4398-938d-e1412dffc426,96089055-4604-415c-b5c5-a7d5470a13a9,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+3603c762-0efe-44d7-aab9-ae8113d5c3d5,96089055-4604-415c-b5c5-a7d5470a13a9,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+226480e8-cafe-4da6-aaef-bdd1b636ab1a,96089055-4604-415c-b5c5-a7d5470a13a9,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+4c7b34e2-60dd-447b-bc77-0709632c28ba,96089055-4604-415c-b5c5-a7d5470a13a9,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+71144918-070a-4aca-8162-d896e7a5a1c2,96089055-4604-415c-b5c5-a7d5470a13a9,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+659966d9-c021-43dd-985d-33bd7181c2d3,078577f1-52ac-43df-806c-97214f479f47,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+08e2ab5f-5a82-4702-ab3e-423f1996e1b3,078577f1-52ac-43df-806c-97214f479f47,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+41ddf070-778d-4d6d-afc7-563e3b374a89,078577f1-52ac-43df-806c-97214f479f47,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+cd550ad2-add2-4a38-aad6-114c53a24c44,078577f1-52ac-43df-806c-97214f479f47,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+f2236eda-7b8f-4807-8ff4-82f116ade2df,078577f1-52ac-43df-806c-97214f479f47,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+c9076a77-5bb7-491a-9839-c82d4a84c321,50fac19b-b342-4105-856a-9b1c438d2973,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+3a3fdd37-1528-4350-8ca1-75ec1862f627,50fac19b-b342-4105-856a-9b1c438d2973,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+c61b288e-1101-4f2a-98f8-dba193719b40,50fac19b-b342-4105-856a-9b1c438d2973,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+7cb00b9f-2ee1-4d13-8a8b-287dcef67f8d,50fac19b-b342-4105-856a-9b1c438d2973,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+d6cc2642-ce60-4dc8-bc92-dc8cf8b31337,50fac19b-b342-4105-856a-9b1c438d2973,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+6b086b21-673e-4b5a-b68d-af3c7638a8db,4a372689-04fe-43c4-89d8-04bb4ed87e91,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+7308af9b-93ab-42c3-aa30-70f3955186d0,4a372689-04fe-43c4-89d8-04bb4ed87e91,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+d28a12cb-6ae3-4902-be47-05c5b8074356,4a372689-04fe-43c4-89d8-04bb4ed87e91,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+6c9eb853-39a5-4752-8408-3652430dc9ca,4a372689-04fe-43c4-89d8-04bb4ed87e91,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+10f24e9a-174f-4b66-b13c-2623cf0080c3,4a372689-04fe-43c4-89d8-04bb4ed87e91,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+a5f7b269-85a9-4132-9d13-09d644b6444e,057cacdf-d35a-4a76-a584-bde993e0bca2,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+6a97d360-7100-4a62-b80a-912cc16f7afb,057cacdf-d35a-4a76-a584-bde993e0bca2,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+5baf1bed-5bdb-4d19-87e3-cce30aa4a2c6,057cacdf-d35a-4a76-a584-bde993e0bca2,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+6c82778c-789f-4364-90b6-53f57e4ad04f,057cacdf-d35a-4a76-a584-bde993e0bca2,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+d1d20961-b327-472b-9493-24982b437f9d,057cacdf-d35a-4a76-a584-bde993e0bca2,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+3e382cc0-2588-4e4e-b794-6c5589943db1,40d89b92-3fd7-4833-95b3-4dc88c73ab04,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+bca02158-5f60-4cd4-bd10-eb022ddbbd90,40d89b92-3fd7-4833-95b3-4dc88c73ab04,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+91741381-e37d-46cb-bf47-1b29a0fe3d6f,40d89b92-3fd7-4833-95b3-4dc88c73ab04,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+8f5e897d-af02-4047-94b5-64a173b93371,40d89b92-3fd7-4833-95b3-4dc88c73ab04,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+584481cb-a685-40f6-8b18-e33907b0d815,40d89b92-3fd7-4833-95b3-4dc88c73ab04,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+3cd82501-6de0-41dd-a361-fb5c1e7d52ae,53aacb76-cb59-4d93-9706-5c440bbaabe6,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+f84afa92-cf0f-498f-8c5f-7616605a1da8,53aacb76-cb59-4d93-9706-5c440bbaabe6,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+26ef5084-28ef-4bed-bc23-2613d01c4c3a,53aacb76-cb59-4d93-9706-5c440bbaabe6,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+e3468ecf-aafe-4d87-91b7-b7e15182696f,53aacb76-cb59-4d93-9706-5c440bbaabe6,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+a7312471-5051-4755-b784-3b2ecf3fba8e,53aacb76-cb59-4d93-9706-5c440bbaabe6,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+b4b70f94-ae80-41fa-a5c4-b733d8284c4e,ca46bf71-f0c2-4403-936c-c04465607293,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+411c1217-cc91-471a-8793-36c1efedbaef,ca46bf71-f0c2-4403-936c-c04465607293,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+59836dc8-bb41-4be5-a6d3-d108f175c619,ca46bf71-f0c2-4403-936c-c04465607293,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+3d6cae1a-40b9-47fa-a30e-eb8b987189b8,ca46bf71-f0c2-4403-936c-c04465607293,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+b62208eb-66e4-4dc4-840c-ab3e7cedc841,ca46bf71-f0c2-4403-936c-c04465607293,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+f69a97ba-c239-4259-a175-07e20979acda,24e0f571-4cb6-49ee-9121-6dbcc34e519f,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+50ea78a4-6ec9-4745-8477-c0a92691b6ed,24e0f571-4cb6-49ee-9121-6dbcc34e519f,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+de352a89-1998-49d9-b51e-ba2a2a7be8a8,24e0f571-4cb6-49ee-9121-6dbcc34e519f,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+1e5aa57f-c8f3-435b-a919-bdf552e3324e,24e0f571-4cb6-49ee-9121-6dbcc34e519f,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+95babed0-b19b-4627-a9d2-632f026ad035,24e0f571-4cb6-49ee-9121-6dbcc34e519f,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+f3174f2e-9f48-4061-8435-2a400553641e,6a020598-1720-4492-9368-07b9931ebbba,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+b3842c7a-7310-4c84-9be4-d3c4aa51d214,6a020598-1720-4492-9368-07b9931ebbba,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+b4caef67-f242-4113-b628-066fa48afbe4,6a020598-1720-4492-9368-07b9931ebbba,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+d7ed0e5c-7877-4960-ad1f-e48cd249e9f7,6a020598-1720-4492-9368-07b9931ebbba,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+347ec453-2bfe-4968-a090-50309ea57fc8,6a020598-1720-4492-9368-07b9931ebbba,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+5753001a-e693-4b00-a8be-76e9d39d0160,1b08a4ce-ad73-4490-bb54-2beecd0401b5,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+48a0c49c-f4b7-404e-89a5-2e13cb9945c4,1b08a4ce-ad73-4490-bb54-2beecd0401b5,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+f69ac038-0f5e-4c86-ac1d-03d7ff2662d2,1b08a4ce-ad73-4490-bb54-2beecd0401b5,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+9d70c864-a5dd-41e3-bcfa-44f666ea664f,1b08a4ce-ad73-4490-bb54-2beecd0401b5,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+19723c48-952f-41db-a2ca-7839ae217725,1b08a4ce-ad73-4490-bb54-2beecd0401b5,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+f677afd7-2993-4927-af24-61363322193b,ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+71c1b4dd-b0f3-41f8-a588-8165b7fd97ed,ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+6130d81c-6204-4427-856f-5387f68c68ee,ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+8535b8e7-8336-4ee5-a80a-993e3a5e2193,ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+9a52b8b4-af07-4fa6-a192-1f59cd85267b,ed8e6722-df9d-4c4d-bc5f-2d6d82e8d613,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+ddba246f-881b-4826-a03d-627648e5204a,f32a9365-6888-496d-b748-20f0ab7e18a5,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+0d7abc72-9867-4886-b403-3afd2302c7fa,f32a9365-6888-496d-b748-20f0ab7e18a5,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+3edb41bd-80f5-4b08-a3df-e26def9f80ef,f32a9365-6888-496d-b748-20f0ab7e18a5,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+1bffcaea-6de0-459e-b4c7-53fdc628bc9b,f32a9365-6888-496d-b748-20f0ab7e18a5,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+21ebbcd2-d43f-4298-855d-45e61063335a,f32a9365-6888-496d-b748-20f0ab7e18a5,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+833d33b8-b309-4990-9cbe-56083a614cc0,9a744f95-35d9-486f-9772-794fc0173a70,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+6a38f77f-84bd-4ff7-9904-1497c3b4c3aa,9a744f95-35d9-486f-9772-794fc0173a70,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+959f2347-2146-4a02-977d-9b252bae601f,9a744f95-35d9-486f-9772-794fc0173a70,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+c3daaa14-ba5f-419b-aa68-1f0030cc9fe9,9a744f95-35d9-486f-9772-794fc0173a70,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+5d98f1d8-bf4d-46d5-b41f-467b66424b0d,9a744f95-35d9-486f-9772-794fc0173a70,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+9de15b90-f5ba-4389-b984-5e91214cfb6a,a107c3a3-639f-4ad6-981e-91c46db53e60,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+af6a9b44-c39a-4de5-aad1-7c3615fa8acc,a107c3a3-639f-4ad6-981e-91c46db53e60,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+5d95034f-68a2-4096-8b94-6a0f7dd59812,a107c3a3-639f-4ad6-981e-91c46db53e60,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+cc1e0cf5-0e34-4907-8c37-4da8556f4a0c,a107c3a3-639f-4ad6-981e-91c46db53e60,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+23c707fb-8441-4e73-b99b-82e2b5a008b4,a107c3a3-639f-4ad6-981e-91c46db53e60,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+e92984c0-1f77-45ee-a3e6-655f447b4ee9,20d263ed-d5eb-4582-9a34-d2125ef6f008,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+9df9c62c-975e-4770-ba0a-36aacbda8eb1,20d263ed-d5eb-4582-9a34-d2125ef6f008,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+9689f4ca-c1f8-4de9-96a6-4cdcf24e2f08,20d263ed-d5eb-4582-9a34-d2125ef6f008,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+b45c4071-f934-4186-980a-ee88b01c3c91,20d263ed-d5eb-4582-9a34-d2125ef6f008,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+dbdfee43-d19a-4c91-b4b9-ca4d9fcd2363,20d263ed-d5eb-4582-9a34-d2125ef6f008,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+5cb8b871-440e-4422-8883-191169e24724,40c8980d-e708-4e23-85c4-ad8ce034656e,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+26bdcb33-6f60-4798-8bc8-9f0e70bacaa5,40c8980d-e708-4e23-85c4-ad8ce034656e,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+7fc64639-6209-4495-ac46-a058ff3746fd,40c8980d-e708-4e23-85c4-ad8ce034656e,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+e1597a68-435c-4f67-b318-9fd26d203e11,40c8980d-e708-4e23-85c4-ad8ce034656e,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+1a283bc4-d511-4e60-bd0f-ec9225f94420,40c8980d-e708-4e23-85c4-ad8ce034656e,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+6747f4d5-04b5-4424-a24a-8061064c3961,87b11b33-bbaa-4eb5-a634-886b8884048a,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+e89a1baf-b92b-4fd7-851a-07cac47a940e,87b11b33-bbaa-4eb5-a634-886b8884048a,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+f03a8df9-04e1-4ef7-8607-a01cc7913e2b,87b11b33-bbaa-4eb5-a634-886b8884048a,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+5d59e775-57a1-4bbe-a659-5c724101c391,87b11b33-bbaa-4eb5-a634-886b8884048a,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+34219517-f940-41a0-b489-a28dfde188d6,87b11b33-bbaa-4eb5-a634-886b8884048a,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+c3804811-bde7-40fe-8631-8c906bab743b,1995b7de-3e69-4381-897e-a5d3bf9d5e0d,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+cc7bc5fb-6c12-425f-8c42-006e8e6c589d,1995b7de-3e69-4381-897e-a5d3bf9d5e0d,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+bbca2ac7-b5c2-4509-9d06-e27ebec5c29f,1995b7de-3e69-4381-897e-a5d3bf9d5e0d,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+8e499f02-f994-40ea-8d84-56e3416431ed,1995b7de-3e69-4381-897e-a5d3bf9d5e0d,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+a27c6a29-c279-4c98-a7fe-4c19abfea5be,1995b7de-3e69-4381-897e-a5d3bf9d5e0d,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+8956198b-75d7-4fce-8f9b-75a523476cdc,25f9d20a-dc18-4757-a8bd-80a5dcf913b9,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+54a9a31e-a4a2-4eb4-b4cc-a53a19c9eb0b,25f9d20a-dc18-4757-a8bd-80a5dcf913b9,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+4b3c9004-e338-4c3f-9f39-1a55fc53d134,25f9d20a-dc18-4757-a8bd-80a5dcf913b9,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+2b241ddd-a795-4a04-8c00-4701565b4f1a,25f9d20a-dc18-4757-a8bd-80a5dcf913b9,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,True,2025-11-27T09:11:31Z
+571c2b60-e4b6-4ac6-bf77-7324206e102c,25f9d20a-dc18-4757-a8bd-80a5dcf913b9,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z
+b8181206-0304-44a4-98dc-ade84668e317,7a3a32a4-bfcd-44fc-81da-9cc52edf20af,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,False,2025-11-27T09:11:31Z
+37fcc496-1f89-4045-9eea-df63f0bb6646,7a3a32a4-bfcd-44fc-81da-9cc52edf20af,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+3ad2c939-f80d-469f-959d-665d16c10a34,7a3a32a4-bfcd-44fc-81da-9cc52edf20af,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+b3c10f42-26a9-4627-8a49-9e0118524589,7a3a32a4-bfcd-44fc-81da-9cc52edf20af,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+1f997676-c6b0-4bdd-9e56-c54b045c2942,7a3a32a4-bfcd-44fc-81da-9cc52edf20af,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+e4d881a4-b597-4e21-9dda-9d22fe27db44,73096e18-23ec-46b7-b482-cc63caac233e,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+289bbe21-2ac0-47e9-9241-d2d1b98bb247,73096e18-23ec-46b7-b482-cc63caac233e,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,True,2025-11-27T09:11:31Z
+df82c7e6-3cb5-4e48-b52b-43b617b6ea1f,73096e18-23ec-46b7-b482-cc63caac233e,Client Outreach,Draft 5 tailored proposals,2 days,3,False,2025-11-27T09:11:31Z
+7f278bb7-76be-4335-922b-7ca98ef99278,73096e18-23ec-46b7-b482-cc63caac233e,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+df66347f-ffde-4179-9c78-993c7caed480,73096e18-23ec-46b7-b482-cc63caac233e,Skill Upgrade,Finish an advanced course,5-7 days,5,False,2025-11-27T09:11:31Z
+1398a846-f54e-4135-b87f-7f9014071177,0a630de0-29cd-4bf4-8d4a-04d0f6370406,Fix Profile Basics,"Complete headline, overview, and add 3 portfolio items",2-3 days,1,True,2025-11-27T09:11:31Z
+951e802c-156b-46fa-8ae9-5113905cdd51,0a630de0-29cd-4bf4-8d4a-04d0f6370406,Enhance Portfolio,Add case studies with outcomes,3-5 days,2,False,2025-11-27T09:11:31Z
+86764945-ddb2-4e3f-a1d5-c7dfba4a50cb,0a630de0-29cd-4bf4-8d4a-04d0f6370406,Client Outreach,Draft 5 tailored proposals,2 days,3,True,2025-11-27T09:11:31Z
+05f34b5d-aa15-486b-b0a1-b2bc1792109c,0a630de0-29cd-4bf4-8d4a-04d0f6370406,Referrals,Ask 3 prior clients for testimonials,1-2 days,4,False,2025-11-27T09:11:31Z
+e7104d0f-2a74-4048-a9ed-b496c90a8a3a,0a630de0-29cd-4bf4-8d4a-04d0f6370406,Skill Upgrade,Finish an advanced course,5-7 days,5,True,2025-11-27T09:11:31Z

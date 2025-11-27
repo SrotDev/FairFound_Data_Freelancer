@@ -1,0 +1,23 @@
+# Core data tooling
+pandas
+numpy
+scikit-learn
+python-dotenv
+
+# Web scraping (optional per README_DATA)
+requests
+beautifulsoup4
+lxml
+playwright
+
+# NLP (optional upgrades)
+transformers
+torch
+sentencepiece
+keybert
+yake
+nltk
+
+# Seeding / HTTP
+httpx
+requests

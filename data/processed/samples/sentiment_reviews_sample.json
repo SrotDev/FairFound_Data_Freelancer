@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Great communication and fast delivery, minor issues with final polish.",
+    "score": 0.76,
+    "label": "positive",
+    "categories": ["communication", "quality"],
+    "suggestions": ["Provide structured progress updates"],
+    "created_at": "2025-11-25T09:30:00Z"
+  },
+  {
+    "text": "Work met expectations overall. Next time, please share timeline upfront.",
+    "score": 0.05,
+    "label": "neutral",
+    "categories": ["deadlines"],
+    "suggestions": ["Share a timeline upfront and add milestones"],
+    "created_at": "2025-11-25T09:31:00Z"
+  }
+]

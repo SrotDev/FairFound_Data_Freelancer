@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "freelancer",
+    "name": "Freelancer",
+    "description": "Freelance professionals",
+    "features": [
+      "profiles",
+      "roadmap",
+      "sentiment"
+    ]
+  },
+  {
+    "slug": "ecommerce",
+    "name": "E-commerce",
+    "description": "Online stores and sellers",
+    "features": [
+      "catalog",
+      "conversion"
+    ]
+  },
+  {
+    "slug": "developer",
+    "name": "Developer",
+    "description": "Software engineers and teams",
+    "features": [
+      "repos",
+      "pipelines"
+    ]
+  },
+  {
+    "slug": "business",
+    "name": "Business",
+    "description": "General business profiles",
+    "features": [
+      "metrics",
+      "insights"
+    ]
+  }
+]

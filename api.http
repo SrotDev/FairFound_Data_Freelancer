@@ -1,0 +1,43 @@
+@base = http://localhost:8000/api/v1
+@auth = Bearer {{AUTH_TOKEN}}
+
+### Health
+GET {{base}}/health/
+
+### Auth: Me
+GET {{base}}/auth/me/
+Authorization: {{auth}}
+
+### Update My Profile
+PATCH {{base}}/freelancers/me/profile/
+Authorization: {{auth}}
+Content-Type: application/json
+
+{
+  "hourly_rate": 60,
+  "portfolio_items": 10,
+  "proposal_success_rate": 25,
+  "repeat_clients_rate": 35,
+  "skills": ["React","TypeScript","Node.js","UI/UX Design"]
+}
+
+### Post Feedback
+POST {{base}}/freelancers/me/feedback/
+Authorization: {{auth}}
+Content-Type: application/json
+
+{
+  "text": "Solid work and responsive communication throughout the project."
+}
+
+### Get Feedback Aggregate
+GET {{base}}/freelancers/me/feedback/aggregate/
+Authorization: {{auth}}
+
+### Ranking Current
+GET {{base}}/freelancers/me/ranking/
+Authorization: {{auth}}
+
+### Roadmap: List
+GET {{base}}/freelancers/me/roadmap/
+Authorization: {{auth}}

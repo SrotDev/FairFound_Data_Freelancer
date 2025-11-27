@@ -1,0 +1,17 @@
+{
+  "positives": 37,
+  "neutrals": 31,
+  "negatives": 12,
+  "avg_score": 0.2055,
+  "top_categories": [
+    "scope",
+    "quality",
+    "communication",
+    "documentation",
+    "responsiveness"
+  ],
+  "actionable_suggestions": [
+    "Provide structured progress updates",
+    "Ask for a brief quality score"
+  ]
+}
