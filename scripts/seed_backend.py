@@ -1,12 +1,16 @@
 #!/usr/bin/env python
 import os
+from dotenv import load_dotenv
 import json
 import sys
 from typing import Dict
 
 import requests
 
-BASE = os.getenv("BASE_URL", "http://localhost:8000/api/v1")
+
+# Load environment variables from .env file
+load_dotenv()
+BASE = os.getenv("BASE_URL", "http://localhost:8000/api/")
 TOKEN = os.getenv("AUTH_TOKEN", "")
 HEADERS = {"Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json"}
 
